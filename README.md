@@ -23,6 +23,7 @@ This is a web based application developed for Travel Agency related based websit
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+![Screenshot (18)](https://user-images.githubusercontent.com/118038586/203481889-b5e88612-4f56-49f1-82bd-f4dc0fd5ad1e.png)
 
 
 
@@ -30,19 +31,17 @@ This is a web based application developed for Travel Agency related based websit
    
 
 ### About Us -
+![Screenshot (19)](https://user-images.githubusercontent.com/118038586/203481907-65f01c1f-78bc-4617-bcdf-9efb50911cea.png)
 
 
 
 ### Services -
+![Screenshot (20)](https://user-images.githubusercontent.com/118038586/203481939-b03e349d-562e-4d04-93e4-c253f68b6842.png)
 
 
 
-### Contact us -
-
-
-
-### health bot
-
+### Contact us 
+![Screenshot (21)](https://user-images.githubusercontent.com/118038586/203481963-3a441289-e70e-481e-8de2-c3cf5aceb703.png)
 
 
 
@@ -51,5 +50,4 @@ This is a web based application developed for Travel Agency related based websit
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
