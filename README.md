@@ -5,7 +5,7 @@ This is a web based application developed for Travel Agency related based websit
 ### This web based Travel Agency application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://white-stone-086c76900.2.azurestaticapps.net
+**Project Link** - https://ashy-moss-09d95be00.2.azurestaticapps.net
 **project demo video link** - https://youtu.be/Bh6XlosK8ls
 
 ## Azure technologies used for Project
