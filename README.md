@@ -23,7 +23,8 @@ This is a web based application developed for Travel Agency related based websit
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Screenshot (18)](https://user-images.githubusercontent.com/118038586/203481889-b5e88612-4f56-49f1-82bd-f4dc0fd5ad1e.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/118038586/209934288-a949580e-6428-4e77-afe5-5ffbd66503a0.png)
+
 
 
 
@@ -40,8 +41,11 @@ This is a web based application developed for Travel Agency related based websit
 
 
 
-### Contact us 
-![Screenshot (21)](https://user-images.githubusercontent.com/118038586/203481963-3a441289-e70e-481e-8de2-c3cf5aceb703.png)
+
+Contact us 
+![Screenshot (49)](https://user-images.githubusercontent.com/118038586/209934484-cac3bdc7-639e-406b-81a5-c35301931b94.png)
+
+
 
 
 
