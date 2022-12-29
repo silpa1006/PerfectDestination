@@ -10,8 +10,9 @@ This is a web based application developed for Travel Agency related based websit
 
 ## Azure technologies used for Project
 
+- Azure Services
 - Static web apps
-- Visual studio code 
+- Azure Bot Service
 
 ## Features and Functionalities 😃
 
@@ -58,3 +59,4 @@ This is a web based application developed for Travel Agency related based websit
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
+- HelpBot
