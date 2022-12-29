@@ -42,10 +42,11 @@ This is a web based application developed for Travel Agency related based websit
 
 
 
-Contact us 
+### Contact us 
 ![Screenshot (49)](https://user-images.githubusercontent.com/118038586/209934484-cac3bdc7-639e-406b-81a5-c35301931b94.png)
 
-
+### HelpBot
+![Screenshot (51)](https://user-images.githubusercontent.com/118038586/209934633-462711ec-8fd8-4b04-aaf9-4a836de597fd.png)
 
 
 
