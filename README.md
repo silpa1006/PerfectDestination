@@ -23,30 +23,33 @@ This is a web based application developed for Travel Agency related based websit
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Screenshot (50)](https://user-images.githubusercontent.com/118038586/209934288-a949580e-6428-4e77-afe5-5ffbd66503a0.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/118038586/209934927-d2f6439a-7a34-4cb7-a93f-274f05143bc0.png)
 
 
 
 
 
-   
 
-### About Us -
-![Screenshot (19)](https://user-images.githubusercontent.com/118038586/203481907-65f01c1f-78bc-4617-bcdf-9efb50911cea.png)
+ About Us -
+![Screenshot (53)](https://user-images.githubusercontent.com/118038586/209935048-875fb6e5-2a6b-43bc-86cb-38de475c299a.png)
+
 
 
 
 ### Services -
-![Screenshot (20)](https://user-images.githubusercontent.com/118038586/203481939-b03e349d-562e-4d04-93e4-c253f68b6842.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/118038586/209935094-e66c62bb-40d3-444f-b3cf-2fc84f2c8a45.png)
+
 
 
 
 
 ### Contact us 
-![Screenshot (49)](https://user-images.githubusercontent.com/118038586/209934484-cac3bdc7-639e-406b-81a5-c35301931b94.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/118038586/209935140-e076740a-dade-49ab-ab66-786320f04703.png)
+
 
 ### HelpBot
-![Screenshot (51)](https://user-images.githubusercontent.com/118038586/209934633-462711ec-8fd8-4b04-aaf9-4a836de597fd.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/118038586/209935194-eecc23b1-c2be-47b1-a79a-020211601f1f.png)
+
 
 
 
